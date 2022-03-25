@@ -1,2 +1,2 @@
 # Python-programs
-Repository about python and its programs are available.
+Repository about basic python and its programs are available.
