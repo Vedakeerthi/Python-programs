@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+# Installation of module
 pip install num2words
 
 
@@ -11,7 +11,6 @@ pip install num2words
 
 
 #converting number to words using module
-
 from num2words import *
 a = int(input("ENTER A NUMBER : "))
 b = num2words(a,lang="en")
@@ -20,7 +19,7 @@ print(b.upper())
 
 # In[12]:
 
-
+#converting number to words using function
 def num_words(num_int,num_len):
     
     ones = ['','one','two','three','four','five','six','seven','eight','nine']
