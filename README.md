@@ -7,6 +7,7 @@ Repository about basic python and its programs are available.
 * Number to words
 * Detecting vowels
 * Numpy operations
+* Two d array manipulation
 <br/>
 
 # **Alice, bob :**
@@ -39,4 +40,7 @@ A simple basic level program where a sentence is given as input and the number o
 This numpy operations python file consists of a new module named numpy, which is used to mathematical operations and array related operations. The module is imported using the import statement, then an array is created and stored in a variable. This array is of one dimensional array, and then the basic operations on this array is performed, such as addition, subtration, multiplication, division and etc. Then a two dimensional array is declared and initialized in the variable b and the transpose of the array is printed. And thus some basic operations on an array is done.
 <br/>
 
-# ****
+# **Two D array manipulation :**
+
+A simple array operation program which is very helpful and handy, but the array is of 2D array. Here the array is created using the arange function where upto the declared value the array is created, and it is reshaped as 6x6 matrix. Once this is done the 4th and the 5th row of the matrix is extracted from the array. Next to that, an another 2d array is declared and stored in a variable, then the sum of the columns of the array is done using the sum function declaring that axis=0, which means it takes the columns not the rows.
+<br/>
