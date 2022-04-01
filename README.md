@@ -5,6 +5,7 @@ Repository about basic python and its programs are available.
 * Fizz buzz
 * Alphabets
 * Number to words
+* Detecting vowels
 <br/>
 
 # **Alice, bob :**
@@ -25,3 +26,9 @@ A simple creative program where a number is taken as input and added with 64 to 
 # **Number to words :**
 
 A beginner level program which is to convert the given number in terms of name, for example if 100, it should return one hundred. This program is implemented in two ways, one is by using the num2words module and the other by using user defined function. The module takes the input and return the words, whereas the function takes the integer and takes the name digit by digit, and return their names from the list specified. But the disadvantage is that it can only be done upto thousand digit, and not above that.
+<br/>
+
+# **Detecting vowels :**
+
+A simple basic level program where a sentence is given as input and the number of vowels and the vowels are printed as output, the string is examined through a for loop if the word matches any of the vowel words then it is appended to an other list, which is then printed as output.
+<br/>
