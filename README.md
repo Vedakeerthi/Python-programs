@@ -6,6 +6,7 @@ Repository about basic python and its programs are available.
 * Alphabets
 * Number to words
 * Detecting vowels
+* Numpy operations
 <br/>
 
 # **Alice, bob :**
@@ -32,3 +33,10 @@ A beginner level program which is to convert the given number in terms of name, 
 
 A simple basic level program where a sentence is given as input and the number of vowels and the vowels are printed as output, the string is examined through a for loop if the word matches any of the vowel words then it is appended to an other list, which is then printed as output.
 <br/>
+
+# **Numpy operations :**
+
+This numpy operations python file consists of a new module named numpy, which is used to mathematical operations and array related operations. The module is imported using the import statement, then an array is created and stored in a variable. This array is of one dimensional array, and then the basic operations on this array is performed, such as addition, subtration, multiplication, division and etc. Then a two dimensional array is declared and initialized in the variable b and the transpose of the array is printed. And thus some basic operations on an array is done.
+<br/>
+
+# ****
