@@ -51,3 +51,11 @@ A simple array operation program which is very helpful and handy, but the array 
 # **Alarm clock :**
 
 A perfect intermediate project for all python programmers. The program takes input of all the necessary details like when to set the alarm like hours, minutes and am/pm. Then a while loop is made to run and if the hour and minutes are as same as the input then a music is made to play using the mixer function from the pygame module, then a notification is made to display on your pc using the notification function from the plyer module. This is how this program works, if the alarm is said to pm and hours is less than 12, then the hours is added with 12, since it uses railway timings.
+<br/> 
+
+# **Basic calculator :**
+
+A simple calculator executed in functions, the operations of the calculator includes, addition, subtraction, multiplication, division, power, modulus and factorial. The operations are executed using the if else statement.
+<br/>
+
+# **
