@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[13]:
-
-
 from tkinter import * 
 import tkinter as tk
 from tkinter import messagebox,ttk
@@ -96,10 +90,3 @@ bt = Button(f,text="CALCULATE BMI",font="TIMES",fg='red',relief="raised",command
 
 window.resizable('false','false')
 window.mainloop()
-
-
-# In[ ]:
-
-
-
-
