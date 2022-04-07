@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 def bmi(ma,he):
     b = ma/he
     print("\nYOUR BMI : ",b)
@@ -31,10 +25,3 @@ elif x=="no" or x=="n" or x=="NO" or x=="N":
     m *=0.454
     
 bmi(m,h)
-
-
-# In[ ]:
-
-
-
-
