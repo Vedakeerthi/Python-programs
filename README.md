@@ -11,6 +11,7 @@ Repository about basic python and its programs are available.
 * Alarm clock
 * Basic calculator
 * BMI
+* Alarm clock.TK
 <br/>
 
 # **Alice, bob :**
@@ -61,4 +62,9 @@ A simple calculator executed in functions, the operations of the calculator incl
 # **BMI :**
 
 A python program to calculate the body mass index of a person, and if the bmi is lesser than or equal to 18.5 it prints you as thin, else if the bmi is greater than or equal to 25 then it will print as, that you are under an overweight condition else prints as that you are normal. The basic if, elif and else conditions are used.
+<br/>
+
+# **Alarm clock.TK :**
+
+The same clock which is worked out on a GUI (Graphical user interface) platform, in python GUI models can be built using the tkinter module, here the tkinter module is used to get the base GUI which includes, font, filedialog box, the color, width and height of the api, then the datetime module is used to compare the timings with the entered timing. The plyer module is used to print the information entered by the user as information and the mixer function from the pygame module is used to play a song from the device to notify as alarm. This is how the alarm clock in GUI.
 <br/>
