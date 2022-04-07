@@ -58,4 +58,7 @@ A perfect intermediate project for all python programmers. The program takes inp
 A simple calculator executed in functions, the operations of the calculator includes, addition, subtraction, multiplication, division, power, modulus and factorial. The operations are executed using the if else statement.
 <br/>
 
-# **
+# **BMI :**
+
+A python program to calculate the body mass index of a person, and if the bmi is lesser than or equal to 18.5 it prints you as thin, else if the bmi is greater than or equal to 25 then it will print as, that you are under an overweight condition else prints as that you are normal. The basic if, elif and else conditions are used.
+<br/>
