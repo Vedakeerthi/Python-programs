@@ -14,6 +14,7 @@ Repository about basic python and its programs are available.
 * Alarm clock.TK
 * BMI.TK
 * Calendar 2020.TK
+* Cash converter from rupees.TK
 <br/>
 
 # **Alice, bob :**
@@ -86,3 +87,7 @@ An another GUI project where the windows are predefined and based on the user in
 This is quiet similar to the previous program, but only the month of the particular year is printed, based on our GUI, we have preprocessed the title, iconbitmap, geometry and the background color of the window, once this all done, we deckare the font, the label to get the year, this input is obtained using the entry column and stored in the n variable, once this done, next to that the month, we use the combobox for the user to give the month as input, so the other input is also obtained, now the same calendar module is used to get the month particulary, this then printed using the label option is the GUI.
 <br/>
 
+# **Cash converter form rupees.TK :**
+
+An intermediate GUI project, where the window is preprocessed, then the font and we use a list to specify the selected currencies that a rupees can be converted to, then these are available in the combobox. The user ask for the indian rupees as input and converts it to the selected foreign currencies from the combobox. Once the button convert is pressed it commands to the function, then the function get the input from the rupees and the foreign currency then compares and outputs the result based on the converted rupees.
+<br/>
