@@ -83,3 +83,6 @@ An another GUI project where the windows are predefined and based on the user in
 
 # **Calendar.TK :**
 
+This is quiet similar to the previous program, but only the month of the particular year is printed, based on our GUI, we have preprocessed the title, iconbitmap, geometry and the background color of the window, once this all done, we deckare the font, the label to get the year, this input is obtained using the entry column and stored in the n variable, once this done, next to that the month, we use the combobox for the user to give the month as input, so the other input is also obtained, now the same calendar module is used to get the month particulary, this then printed using the label option is the GUI.
+<br/>
+
