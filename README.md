@@ -16,6 +16,7 @@ Repository about basic python and its programs are available.
 * Calendar 2020.TK
 * Cash converter from rupees.TK
 * Date time module
+* Digital clock
 <br/>
 
 # **Alice, bob :**
@@ -96,4 +97,9 @@ An intermediate GUI project, where the window is preprocessed, then the font and
 # **Date time module :**
 
 This program is uplooaded to learn the essentials of the Date time module, using date time module, the date and time data can be handled in python, here from installing the module to learning some important functions are studied.
+<br/>
+
+# **Digital clock :**
+
+As we studied about the datetime module, now lets combine our learning in the datetime and the tkinter module and the outcome of the learning, here comes the digital clock program, where the window pre requirements are declared and the font for the window are optimized, then a label is made in the window to show the current timing, the time function is where the current time from the date time module is executed and printed in the label of the window.
 <br/>
