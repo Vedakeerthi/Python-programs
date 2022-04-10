@@ -18,6 +18,7 @@ Repository about basic python and its programs are available.
 * Date time module
 * Digital clock
 * Find the date after the given date
+* Number system converter
 <br/>
 
 # **Alice, bob :**
@@ -108,4 +109,9 @@ As we studied about the datetime module, now lets combine our learning in the da
 # **Find the date after the given date :**
 
 A simple GUI concept where the date after the given date is printed, the window pre processing are done, then the current date is taken as input from the user and stored in the variable n, next to that when the 'GET DATE' function is pressed it moves to the gd function then using the timedelta function the date after the given date is calculated and printed as a label to the window, then this window is exited using the mainloop function.
+<br/>
+
+# **Number system converter :**
+
+An intermediate program to convert the decimal system to binary, octal, and hexa decimal. 
 <br/>
