@@ -17,6 +17,7 @@ Repository about basic python and its programs are available.
 * Cash converter from rupees.TK
 * Date time module
 * Digital clock
+* Find the date after the given date
 <br/>
 
 # **Alice, bob :**
@@ -102,4 +103,9 @@ This program is uplooaded to learn the essentials of the Date time module, using
 # **Digital clock :**
 
 As we studied about the datetime module, now lets combine our learning in the datetime and the tkinter module and the outcome of the learning, here comes the digital clock program, where the window pre requirements are declared and the font for the window are optimized, then a label is made in the window to show the current timing, the time function is where the current time from the date time module is executed and printed in the label of the window.
+<br/>
+
+# **Find the date after the given date :**
+
+A simple GUI concept where the date after the given date is printed, the window pre processing are done, then the current date is taken as input from the user and stored in the variable n, next to that when the 'GET DATE' function is pressed it moves to the gd function then using the timedelta function the date after the given date is calculated and printed as a label to the window, then this window is exited using the mainloop function.
 <br/>
