@@ -20,6 +20,7 @@ Repository about basic python and its programs are available.
 * Find the date after the given date
 * Number system converter
 * Password generator
+* Password generator.Tk
 <br/>
 
 # **Alice, bob :**
@@ -120,4 +121,9 @@ An intermediate program to convert the decimal system to binary, octal, and hexa
 # **Password generator :**
 
 The password generator is used to generate passwords randomly, based on the number of length of the password length, the password length is specified by the user. The characters of the password are specified such as the numbers, lower case letters, higher case letters, and the symbols for the password, then these string values are concatenated together. The random module is used to select the string values randomly as a password, and finally the password is printed.
+<br/>
+
+# **Password generator. Tk :**
+
+The same password generator program but it is executed in a GUI. As similar to the other programs, the window is updated and label and a entry option is used in the window to print the password length and to get the int input of the length of the password. Then a radiobutton is used to check if numbers need to added, small case letters need to be added, large case letters need to be added or symbols need to be added, based on the selection of radio buttons, the characters are used in the password. Then using the get password button the password is printed using a label. Finally the window is closed using the mainloop function.
 <br/>
