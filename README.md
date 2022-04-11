@@ -113,5 +113,5 @@ A simple GUI concept where the date after the given date is printed, the window 
 
 # **Number system converter :**
 
-An intermediate program to convert the decimal system to binary, octal, and hexa decimal. 
+An intermediate program to convert the decimal system to binary, octal, and hexa decimal. Python functions are used, here for a single input of a specific system, the other three systems are printed as output. The program starts from the main function, so a while loop is made to run without a stopping condition, for the user to run endlessly. For the users int input different functions are made to run. In case of converting decimal to binary and the other three, a specific function is executed, the bin, oct and hex inbuilt functions are used to for conversion of the other three. Likewise different operations are made for the conversion.
 <br/>
