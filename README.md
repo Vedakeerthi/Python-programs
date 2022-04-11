@@ -21,6 +21,7 @@ Repository about basic python and its programs are available.
 * Number system converter
 * Password generator
 * Password generator.Tk
+* PY to EXE file conversion steps. Tk
 <br/>
 
 # **Alice, bob :**
@@ -127,3 +128,10 @@ The password generator is used to generate passwords randomly, based on the numb
 
 The same password generator program but it is executed in a GUI. As similar to the other programs, the window is updated and label and a entry option is used in the window to print the password length and to get the int input of the length of the password. Then a radiobutton is used to check if numbers need to added, small case letters need to be added, large case letters need to be added or symbols need to be added, based on the selection of radio buttons, the characters are used in the password. Then using the get password button the password is printed using a label. Finally the window is closed using the mainloop function.
 <br/>
+
+# **PY to EXE file conversion steps. Tk :**
+
+The step by step process of converting a py python file to executable file, exe file using window powershell is performed step by step. These steps are printed in the GUI window using the label option. Perform these steps to get an exe file of the python file.
+<br/>
+
+# 
