@@ -19,6 +19,7 @@ Repository about basic python and its programs are available.
 * Digital clock
 * Find the date after the given date
 * Number system converter
+* Password generator
 <br/>
 
 # **Alice, bob :**
@@ -114,4 +115,9 @@ A simple GUI concept where the date after the given date is printed, the window 
 # **Number system converter :**
 
 An intermediate program to convert the decimal system to binary, octal, and hexa decimal. Python functions are used, here for a single input of a specific system, the other three systems are printed as output. The program starts from the main function, so a while loop is made to run without a stopping condition, for the user to run endlessly. For the users int input different functions are made to run. In case of converting decimal to binary and the other three, a specific function is executed, the bin, oct and hex inbuilt functions are used to for conversion of the other three. Likewise different operations are made for the conversion.
+<br/>
+
+# **Password generator :**
+
+The password generator is used to generate passwords randomly, based on the number of length of the password length, the password length is specified by the user. The characters of the password are specified such as the numbers, lower case letters, higher case letters, and the symbols for the password, then these string values are concatenated together. The random module is used to select the string values randomly as a password, and finally the password is printed.
 <br/>
