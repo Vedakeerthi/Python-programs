@@ -5,8 +5,10 @@ def randg(i):
         print("NOT EVEN CLOSE, TRY AGAIN!!")
     elif n==i+1 or n==i-1:
         print("SOO CLOSE!! THE NUMBER IS ",n)
-    else:
+    elif n==i:
         print("YAY!! CONGRATS YOU FOUND IT!!")
+    else:
+        print("TRY AGAIN!")
 
 if __name__ == '__main__':
     print("----------RANDOM NUMBER GAME----------")
