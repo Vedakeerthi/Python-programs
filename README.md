@@ -22,6 +22,7 @@ Repository about basic python and its programs are available.
 * Password generator
 * Password generator.Tk
 * PY to EXE file conversion steps. Tk
+* Random number game
 <br/>
 
 # **Alice, bob :**
@@ -134,4 +135,8 @@ The same password generator program but it is executed in a GUI. As similar to t
 The step by step process of converting a py python file to executable file, exe file using window powershell is performed step by step. These steps are printed in the GUI window using the label option. Perform these steps to get an exe file of the python file.
 <br/>
 
-# 
+# **Random number game :**
+
+A simple game, where we need to guess the numbers which have a range from 1 to 10. The user is made to guess the number and the guessed number and the random number is checked if the random number is equal to the guessed number then we print as 'Yay!! you did it'', else if the random number is close to the guessed number then it is printed as 'Soo close' and we display the number, else we print as 'Try again', the random number of the particular range is given by the randint function in the random module.
+<br/>
+
