@@ -25,6 +25,7 @@ Repository about basic python and its programs are available.
 * Random number game
 * Random number game.Tk
 * Tables
+* Wikipedia module
 <br/>
 
 # **Alice, bob :**
@@ -150,4 +151,9 @@ The same game which implemented in python is now implemented on a GUI, as known 
 # **Tables :**
 
 A simple python program to print the mathematical tables of a particular integer input from the user, like the same way we studied the mathematical table in lower classes, for the particular input, the input is made to run in a for loop which is multiplied till 20.
+<br/>
+
+# **Wikipedia module :**
+
+A full glance and the important functions about the wikipedia module is learned, the program starts with installing the module, then importing it, then a summary about a particular topic is searched and printed upto the selected sentences. Meanwhile the page function is used to get the things that are present in the page of the particular topic, we can get the html format, title and even the image of the page. The wikipedia module also consists of a very useable and important function name set_lang function using which we can set the language and the summary can be of the language which is set.
 <br/>
