@@ -26,6 +26,7 @@ Repository about basic python and its programs are available.
 * Random number game.Tk
 * Tables
 * Wikipedia module
+* Stone paper scissor.Tk
 <br/>
 
 # **Alice, bob :**
@@ -156,4 +157,9 @@ A simple python program to print the mathematical tables of a particular integer
 # **Wikipedia module :**
 
 A full glance and the important functions about the wikipedia module is learned, the program starts with installing the module, then importing it, then a summary about a particular topic is searched and printed upto the selected sentences. Meanwhile the page function is used to get the things that are present in the page of the particular topic, we can get the html format, title and even the image of the page. The wikipedia module also consists of a very useable and important function name set_lang function using which we can set the language and the summary can be of the language which is set.
+<br/>
+
+# **Stone paper scissor.Tk :**
+
+A simple GUI project where, the computer is automated to play with you, once you give your input and the computer's random choice, this game is played, being a GUI project tkinter module in python is used. So the window's preprocessing has been declared, then the user is made to input either stone, paper or scissor from the combobox column, then this input is stored in the n variable, once this happens, the spin button is pressed, then the program executes the function sps, where path of the stone, paper and scissor images are stored in a list. Now the computer is made to select any one of them randomly, and based on the comparison, the result will be displayed in a label. While our input in combobox, the random output of the computer will be in image format, that's why we use photoimage function in the module. This is how the stone, paper and scissor game is played in the computer.
 <br/>
