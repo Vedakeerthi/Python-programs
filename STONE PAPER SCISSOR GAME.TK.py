@@ -6,7 +6,7 @@ import random as r
 
 window = tk.Tk()
 window.title("STONE PAPER SCISSOR")
-#window.iconbitmap('vk.ico')
+#window.iconbitmap('vk.ico') #Here place the file path of the icon image file.
 window.config(bg="black")
 window.geometry('600x600')
 
@@ -32,9 +32,9 @@ def sps():
         res = Label(window,text="YOU LOSE..",width=15,fg="red",bg="white",font=f1).grid(row=4,column=1)
 
     
-STONE = PhotoImage(file="My_personal_files/CODING FILES/MY PROGRAMS/PYTHON/MY PROJECTS/STONE PAPER SCISSOR GAME IMAGES/rock.png")
-PAPER = PhotoImage(file="My_personal_files/CODING FILES/MY PROGRAMS/PYTHON/MY PROJECTS/STONE PAPER SCISSOR IMAGES/paper.png")
-SCISSOR = PhotoImage(file="My_personal_files/CODING FILES/MY PROGRAMS/PYTHON/MY PROJECTS/STONE PAPER SCISSOR IMAGES/scissor.png")
+STONE = PhotoImage(file="# Place the rock.png file path here")
+PAPER = PhotoImage(file="# Place the paper.png file path here")
+SCISSOR = PhotoImage(file="# Place the scissor.png file path here")
 f = font.Font(family="Times",size=10,weight='bold',slant='italic',underline=0)
 f1 = font.Font(family="Times",size=10,weight='bold',underline=1)
 n=StringVar()
